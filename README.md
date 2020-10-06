@@ -1,2 +1,4 @@
 # HelloWorld
 First Program
+
+Hi there, this is my first program written in python!
